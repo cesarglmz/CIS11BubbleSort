@@ -11,7 +11,7 @@ This program is a bubble sort written in LC-3 assembly language.
  INPUT: ARRAY (8 numbers between 0-100)
  OUTPUT: ARRAY (8 numbers sorted in ascending order)
 
- Variables: \n   
+ Variables: "\n"   
         PNTR: sorting pointer (left value)
         TEMP: temporary hold for values
         COMP: comparing pointer (right value)
