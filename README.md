@@ -13,11 +13,11 @@ This program is a bubble sort written in LC-3 assembly language.
 
  Variables:    
         * PNTR: sorting pointer (left value)  <br>
-        * TEMP: temporary hold for values  <br>
-        * COMP: comparing pointer (right value)  <br>
-        * FIRST: hold for left value in comparison  <br>
-        * SECOND: hold for right value in comparison  <br>
-        * ARRAY: array for 8 numbers  <br>
+         TEMP: temporary hold for values  <br>
+         COMP: comparing pointer (right value)  <br>
+         FIRST: hold for left value in comparison  <br>
+         SECOND: hold for right value in comparison  <br>
+         ARRAY: array for 8 numbers  <br>
 
  Subroutines:    
         LOOP: user inputs 8 numbers for sorting  <br>
