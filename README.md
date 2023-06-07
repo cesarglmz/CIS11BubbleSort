@@ -8,7 +8,7 @@ This program is a bubble sort written in LC-3 assembly language.
  numbers and swapping them if the left value is less than the right value, until
  all numbers are in ascending order. It then outputs the sorted list of numbers.
 
- INPUT: ARRAY (8 numbers between 0-100)
+ INPUT: ARRAY (8 numbers between 0-100)  <br>
  OUTPUT: ARRAY (8 numbers sorted in ascending order)
 
  Variables:    
